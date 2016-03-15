@@ -22,7 +22,7 @@ int main()
 	int units    = 0;     
 	double total = 0.0;
 
-	cout << fixed << setprecision(2);
+	cout << fixed << setprecision(3);
 
 	//call functions
 	getInput(current, previous);
